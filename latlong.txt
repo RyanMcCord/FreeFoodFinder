@@ -1,0 +1,83 @@
+lat/long:
+https://www.latlong.net/
+- Michigan Union
+    - lat: 42.27518329999999
+    - lng: -83.74135679999999
+- Taubman Center
+    - lat: 42.283324
+    - lng: -83.730954
+- Museum of Art
+    - lat: 42.275399
+    - lng: -83.739735
+- Crossroads Community Baptist Church
+    - lat: 42.248138
+    - lng: -83.721159
+- Weiser Hall
+    - lat: 42.276518
+    - lng: -83.735044
+- Meijer, 3825 Carpenter Rd.
+    - lat: 42.233595
+    - lng: -83.676396
+- Ruthven Museums Building
+    - lat: 42.278426
+    - lng: -83.734999
+- Mary Markley Hall
+    - lat: 42.280889
+    - lng: -83.728879
+- Ross School of Business
+    - lat: 42.272175
+    - lng: -83.737236
+- All Dining Halls (using SQuad)
+    - lat: 42.273681
+    - lng: -83.742143
+- North Quadrangle Residential
+    - lat: 42.280738
+    - lng: -83.740172
+- Pierpont Commons
+    - lat: 42.291153
+    - lng: -83.717491
+- Center for the Education of Women
+    - lat: 42.279238
+    - lng: -83.744798
+- Mosher-Jordan Hall
+    - lat: 42.280052
+    - lng: -83.731397
+- Dana Natural Resources Building
+    - lat: 42.277319
+    - lng: -83.736589
+- Ann Arbor District Library
+    - lat: 42.278194
+    - lng: -83.745658
+- Palmer Commons
+    - lat: 42.280772
+    - lng: -83.733857
+- Ginsberg Center
+    - lat: 42.271807
+    - lng: -83.736040
+- Angell Hall
+    - lat: 42.276750
+    - lng: -83.739917
+- Galleria - IGR Resource Center
+    - lat: 42.274756
+    - lng: -83.733883
+- Biomedical Science Research Building
+    - lat: 42.281947
+    - lng: -83.734548
+- East Quadrangle
+    - lat: 42.272934
+    - lng: -83.735231
+- Modern Languages Building
+    - lat: 42.279844
+    - lng: -83.739053
+- Gleaners Community Food Bank, Detroit, MI
+    - lat: 42.354232
+    - lng: -83.014174
+- Duderstadt Center
+    - lat: 42.291165
+    - lng: -83.715716
+- University of Michigan
+    - lat: 42.278044
+    - lng: -83.738224
+- Michigan Ladder
+    - lat: 42.248987
+    - lng: -83.611143

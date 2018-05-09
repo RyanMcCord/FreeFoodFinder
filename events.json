@@ -1,0 +1,62 @@
+[
+    {
+        "eventName": "Food Literacy for All: Course Synthesis",
+        "eventType": "Lecture / Discussion",
+        "website": "https://events.umich.edu/event/46594",
+        "location": "Angell Hall: Aud B",
+        "date": "Tuesday, April 17, 2018",
+        "monthNum": 4,
+        "dateNum": 17,
+        "time": "6:30PM - 8:00PM",
+        "foodType": "unknown",
+        "locationCategory": "central"
+    },
+    {
+        "eventName": "Food for the Soul Sundays",
+        "eventType": "Social / Informal Gathering",
+        "website": "https://events.umich.edu/event/43823",
+        "location": "Trotter Multicultural Center",
+        "date": "Sunday, April 22, 2018",
+        "monthNum": 4,
+        "dateNum": 22,
+        "time": "5:00PM - 7:00PM",
+        "foodType": "unknown",
+        "locationCategory": "central"
+    },
+    {
+        "eventName": "Ryan's free pizza fun time",
+        "eventType": "Social af",
+        "website": "https://events.umich.edu/event/46594",
+        "location": "UGLI",
+        "date": "Monday, April 9, 2018",
+        "monthNum": 4,
+        "dateNum": 9,
+        "time": "11:00PM - 11:10PM",
+        "foodType": "pizza",
+        "locationCategory": "central"
+    },
+    {
+        "eventName": "Something Really Cool",
+        "eventType": "cool",
+        "website": "https://events.umich.edu/event/43823",
+        "location": "Duderstadt",
+        "date": "Saturday, May 5, 2018",
+        "monthNum": 5,
+        "dateNum": 5,
+        "time": "8:00PM - 9:00PM",
+        "foodType": "unknown",
+        "locationCategory": "north"
+    },
+    {
+        "eventName": "Something Really Cool 2.0",
+        "eventType": "cool",
+        "website": "https://events.umich.edu/event/43823",
+        "location": "Duderstadt",
+        "date": "Sunday, May 6, 2018",
+        "monthNum": 5,
+        "dateNum": 6,
+        "time": "8:00AM - 9:00AM",
+        "foodType": "unknown",
+        "locationCategory": "north"
+    }
+]

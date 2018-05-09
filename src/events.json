@@ -1,0 +1,74 @@
+[
+   {
+        "eventName": "Free Speech: A WeListen Staff Session",
+        "eventType": "Lecture / Discussion",
+        "website": "https://events.umich.edu/event/51188",
+        "location": "Michigan League - Michigan Room",
+        "date": "Friday, April 13, 2018",
+        "monthNum": 4,
+        "dateNum": 13,
+        "time": "11:30PM - 1:00PM",
+        "foodType": "unknown",
+        "locationCategory": "central"
+    },
+    {
+        "eventName": "RC Review Release Party",
+        "eventType": "Presentation",
+        "website": "https://events.umich.edu/event/51783",
+        "location": "East Quadrangle - Benzinger Library",
+        "date": "Friday, April 13, 2018",
+        "monthNum": 4,
+        "dateNum": 13,
+        "time": "6:00PM - 8:00PM",
+        "foodType": "unknown",
+        "locationCategory": "central"
+    },
+    {
+        "eventName": "Food Literacy for All: Course Synthesis",
+        "eventType": "Lecture / Discussion",
+        "website": "https://events.umich.edu/event/46594",
+        "location": "Angell Hall: Aud B",
+        "date": "Tuesday, April 17, 2018",
+        "monthNum": 4,
+        "dateNum": 17,
+        "time": "6:30PM - 8:00PM",
+        "foodType": "unknown",
+        "locationCategory": "central"
+    },
+    {
+        "eventName": "CEW Student Study Space and End of the Term Lunch and Recharge",
+        "eventType": "Reception / Open House",
+        "website": "https://events.umich.edu/event/43894",
+        "location": "Center for the Education of Women",
+        "date": "Wednesday, April 18, 2018",
+        "monthNum": 4,
+        "dateNum": 18,
+        "time": "10:00AM - 3:00PM",
+        "foodType": "unknown",
+        "locationCategory": "central"
+    },
+    {
+        "eventName": "Finals Survival Breakfast/To Go",
+        "eventType": "Social / Informal Gathering",
+        "website": "https://events.umich.edu/event/51214",
+        "location": "Pierpont Commons",
+        "date": "Wednesday, April 18, 2018",
+        "monthNum": 4,
+        "dateNum": 18,
+        "time": "8:00AM - 2:00PM",
+        "foodType": "unknown",
+        "locationCategory": "north"
+    },
+    {
+        "eventName": "Food for the Soul Sundays",
+        "eventType": "Social / Informal Gathering",
+        "website": "https://events.umich.edu/event/43823",
+        "location": "Trotter Multicultural Center",
+        "date": "Sunday, April 22, 2018",
+        "monthNum": 4,
+        "dateNum": 22,
+        "time": "5:00PM - 7:00PM",
+        "foodType": "unknown",
+        "locationCategory": "central"
+    }
+]

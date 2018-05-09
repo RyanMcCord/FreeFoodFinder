@@ -1,0 +1,171 @@
+body {
+  font: 14px "Helvetica", Futura, sans-serif;
+  margin: 0px;
+}
+
+.header {
+  background: #27587B;
+  color: white;
+  position: fixed;
+  width: 100%;
+  height: 85px;
+  top: 0px;
+  padding: 10px;
+  font-size: 40px;
+}
+
+.footer {
+  background: #27587B;
+  color: white;
+  position: fixed;
+  width: 100%;
+  bottom: 0px;
+  padding: 7px;
+}
+
+.mainPage {
+  background: #f4f4f4;
+  width: 100%;
+  position: fixed;
+  top: 105px;
+  bottom: 58px;
+}
+
+.filters {
+  position: relative;
+  top: 30px;
+  width: 100%;
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+
+
+/* CSS for the view selector */
+
+label{
+  position: relative;
+  height:100%;
+  display: block;
+  height: 50px;
+}
+
+[type="radio"]{
+  display: none;
+  z-index: 5;
+  position: relative;
+}
+
+[type="radio"] ~ span{
+  transition: background .3s;
+  height: 100%;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  align-items: center;
+  padding: 0 25px;
+  z-index: 5;
+  position: relative;
+  font-size: 22px;
+}
+
+.selectorBG{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #8bda6c;
+  color: white;
+  top: 0;
+  z-index: 0;
+  left: 0;
+  width: 0;
+  transition: .3s width;
+}
+
+label:nth-child(1) .selectorBG{
+  right: 0;
+  left: auto;
+}
+
+label:nth-child(2) .selectorBG{
+  left: 0;
+}
+
+[type="radio"]:checked + .selectorBG{
+  width: 100%;
+}
+
+.viewSelect{
+  border:1px solid #ddd;
+  display: inline-flex;
+  overflow:hidden;
+  border-radius: 50px;
+  align-items: center;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
+  top: 20px;
+  background: #919191;
+  color: white;
+}
+
+
+/* ------------------------ */
+
+
+
+/* CSS for event list items */
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  width: 97%;
+}
+
+.listView {
+  position: absolute;
+  display: flex;
+  top: 130px;
+  width: 100%;
+  height: calc(100% - 130px);
+  overflow-y: scroll;
+}
+
+.infoView {
+  position: absolute;
+  display: flex;
+  top: 130px;
+  width: 100%;
+  height: calc(100% - 130px);
+  overflow-y: scroll;
+}
+
+.eventItem {
+  background: white;
+  border-radius: 25px;
+  width: 100%;
+  margin: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgb(0, 0, 0, 0.19);
+  padding: 10px;
+}
+
+.listEventName {
+  font-size: 25px;
+}
+
+.listLocation {
+  float: right;
+}
+
+.listDate {
+  float: right;
+}
+
+.listTime {
+  float: right;
+}
